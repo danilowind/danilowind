@@ -1,9 +1,8 @@
 ### Olá! Eu sou a Lorena 👋
 
-- 📚 Me preparando para a área de QA
+- 📚 Entusiasta da área de dados 
 - 🌱 Me aperfeiçoando a cada dia
-- 👯 Proativa e atenta aos detalhes
-- 😄 Pronouns: ela/dela
+- 👯 Proativo e atento aos detalhes
 
 <div align="center">
   <a href="https://github.com/LorenaCQ">
@@ -23,8 +22,7 @@
   ##
   
   <div>
-  <a href="https://instagram.com/lorena_cq" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="border-radius:50%;"></a>
-  <a href="https://www.linkedin.com/in/lorenacq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danilo-dias-costa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![snake gif](https://github.com/lorenacq/lorenacq/blob/output/github-contributionn-grid-snake.svg)
     
