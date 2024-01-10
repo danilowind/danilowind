@@ -23,15 +23,14 @@
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg">
-  <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202303/132194_5aRKANeC.png">
-  <img align="right" alt="Lore-pic" height="150" style="border-radius:50px;" src="[https://cdn.picrew.me/shareImg/org/202303/132194_5aRKANeC.png">
+  <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
 
 
 </div>
 
 
   <div>
-  
+  <a></a>
   <a href="https://www.linkedin.com/in/danilo-dias-costa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
     
