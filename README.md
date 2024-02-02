@@ -23,7 +23,9 @@
   <img align="center" alt="Lore-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg">
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg">
-  <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
+  <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg">
+  
 </div>
 <div>-------------------------------------------------------------------------------------------------</div>
 <div>
