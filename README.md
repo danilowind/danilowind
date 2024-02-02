@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Danilo 👋
 
 - Entusiasta de dados 
-- Me aperfeiçoando a cada dia
-- Curioso e atento aos detalhes
 
 <div align="center">
   <a href="https://github.com/danilowind">
@@ -27,7 +25,7 @@
   <img align="center" alt="Lore-CSS" height="30" width="40"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg">
   
 </div>
-<div>-------------------------------------------------------------------------------------------------------</div>
+<div>---------------------------------------------------------------------------------------------------------</div>
 <div>
   <a href="https://www.linkedin.com/in/danilo-dias-costa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
