@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Danilo 👋
 
-- 📚 Entusiasta de dados 
-- 🌱 Me aperfeiçoando a cada dia
-- 👯 Curioso e atento aos detalhes
+- Entusiasta de dados 
+- Me aperfeiçoando a cada dia
+- Curioso e atento aos detalhes
 
 <div align="center">
   <a href="https://github.com/danilowind">
